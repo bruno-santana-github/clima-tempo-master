@@ -1,5 +1,5 @@
 // Variaveis e seleção de elementos
-const apiKey ="1974921805be10ac59448240862cf637";
+const apiKey ="Coloque sua chave APIKey";
 
 //const apiCountyURL ="https://countryflagsapi.com/:filetype/:code";
 const apiCountyURL ="https://countryflagsapi.com/png/";
