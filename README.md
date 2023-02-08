@@ -6,13 +6,8 @@ HTML, CSS e JavaScript.
 
 ### Projeto Clima Tempo HOME 
 
-![image](https://raw.githubusercontent.com/brbruno-santana-githubu/Starbucks/main/design/1.png)
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/2.png)
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/3.png)
-
-### Projeto Clima Tempo  
-![image](https://raw.githubusercontent.com/bruno-santana-github/Starbucks/main/design/4.png)
-
+![image](https://github.com/bruno-santana-github/clima-tempo-master/blob/master/images/img1.png)
+![image](https://github.com/bruno-santana-github/clima-tempo-master/blob/master/images/img2.png)
 
 
 
