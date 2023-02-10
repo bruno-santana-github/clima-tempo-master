@@ -1,5 +1,5 @@
 <h1 align="center">
-Clima Tempo  - Consulta o clima da sua cidad, estado e o país
+Clima Tempo  - Consulte o clima da sua cidade, estado e o país
 
 <h3 align="center">
 HTML, CSS e JavaScript.
@@ -16,7 +16,7 @@ HTML, CSS e JavaScript.
 <a href="https://www.linkedin.com/in/bruno-santana-moraes/">
  <sub><b>Bruno de Santana</b></sub></a>  <a href="https://www.linkedin.com/in/bruno-santana-moraes/" title="LinkedIn">🚀</a>
 
-Elaborado por Bruno Santanan
+Elaborado por Bruno Santanaa
 <br> Encontre-me Aqui!👋🏽 </br>
 
  <div> 
